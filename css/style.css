@@ -13,3 +13,6 @@ div{
 div:hover{
     background-color: aqua;
 }
+header, div{
+    justify-content: center;
+}
