@@ -1,1 +1,15 @@
-
+body{
+    height: 100vh;
+}
+header{
+background-color: blue;
+}
+a{
+    color: white;
+}
+div{
+    background-color: blue;
+}
+div:hover{
+    background-color: aqua;
+}
