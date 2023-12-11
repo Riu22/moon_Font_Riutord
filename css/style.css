@@ -1,18 +1,75 @@
 body{
     height: 100vh;
+    background-image: url(/img/index.jpg);
+
+
+}
+.pixeles{
+    border-color: 5px solid blue;    
+
+}
+.center{
+    justify-content: center;
 }
 header{
 background-color: blue;
+height: 25%;
+}
+footer{
+    background-color: blue;
+
 }
 a{
     color: white;
 }
-div{
+.azul{
     background-color: blue;
 }
-div:hover{
+.azul:hover{
     background-color: aqua;
 }
 header, div{
     justify-content: center;
+}
+.principal{
+    border-radius: 10%;
+    border-color: 1px solid color blue;
+    justify-content: center;
+    background-color: aqua;
+    height: 25%;
+    width: auto;
+    opacity: 0.5;
+}
+.completo{
+    height: 100vh;
+}
+button{
+    background-color: blue;
+    border-radius: 10%;
+    color: white;
+    height: 25%;
+    width: 50%;
+}
+.imagenes{
+    height: 25%;
+    width: 25%;
+}
+.formulacio{
+    border-radius: 10%;
+    border-color: 1px solid color blue;
+    justify-content: center;
+    background-color: aqua;
+    height: 25%;
+    width: auto;
+    opacity: 0.5;
+
+}
+.llenar{
+    border-radius: 10%;
+    border-color: 1px solid color blue;
+    background-color: rgb(141, 241, 241);
+}
+.form{
+    color: black;
+    opacity: 1;
 }
