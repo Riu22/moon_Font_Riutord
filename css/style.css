@@ -17,7 +17,12 @@ height: 25%;
 }
 footer{
     background-color: blue;
-
+    
+}
+.posicion{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 a{
     color: white;
